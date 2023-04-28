@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bills>
+    <bill>
+        <id>1</id>
+        <total>3325.0</total>
+    </bill>
+    <bill>
+        <id>2</id>
+        <total>10000.0</total>
+    </bill>
+</bills>
